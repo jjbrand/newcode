@@ -1,0 +1,21 @@
+h1 {
+  color: blue;
+}
+
+h2 {
+    font-style: italic;
+    font-weight: bold;
+}
+
+p {
+  font-family: sans-serif;
+}
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+marquee {
+  color: #FF5A5F;
+  font-size: 50px;
+}
